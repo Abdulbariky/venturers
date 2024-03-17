@@ -132,12 +132,8 @@
     backdrop-filter: blur(20px);
     display: flex;
     justify-content: flex-end;
-    align-items: center;
-    -webkit-mask: linear-gradient(#000 0 0), linear-gradient(#000 0 0);
-    -webkit-mask-clip: text, padding-box;
-    -webkit-mask-composite: xor;
-    padding-right: 20px;
-    
+    align-items: center;   
+    padding-right: 20px;    
 }
 
 .penetrate-blur h1 {
